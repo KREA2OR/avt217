@@ -4,5 +4,6 @@
   box-sizing: border-box;
 }
 body {
+  font-size: 100px;
   font-family: 'Tangerine', cursive;
 }

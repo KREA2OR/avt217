@@ -8,7 +8,11 @@ p {
   font-size: 45px;
   letter-spacing: .5px;
   margin-top: 0;
+  margin-right: 10
 }
 a:visited {
   color: red;
+}
+a:hover {
+  color: whitesmoke;
 }

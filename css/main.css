@@ -16,3 +16,6 @@ a:visited {
 a:hover {
   color: whitesmoke;
 }
+ul{
+  list-style-type: none;
+}

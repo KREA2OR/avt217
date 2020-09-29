@@ -1,1 +1,11 @@
 font-family: 'Teko', sans-serif;
+#signature {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 30px;
+}
+#bold {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+}

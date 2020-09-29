@@ -6,6 +6,9 @@ body {
   color: #556B2F;
   text-decoration: none;
 }
+a:hover {
+  color: whitesmoke
+}
 #size, #weight, #form, #structure, #texture, #color, #direction, #contrast, #signature {
   font-style: italic;
   font-weight: bold;
@@ -29,7 +32,4 @@ ul {
 }
 a:link {
   color: #66CDAA;
-}
-a:hover {
-  color: whitesmoke
 }

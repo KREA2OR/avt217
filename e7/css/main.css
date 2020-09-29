@@ -1,6 +1,8 @@
 body {
   font-family: 'Teko', sans-serif;
   font-size: 30px;
+  background-color: #8FBC8B;
+  color: #556B2F;
 }
 #signature {
   font-style: italic;
@@ -14,6 +16,6 @@ body {
 }
 h1, h2, h3 {
   text-align: center;
-  text-shadow: black
-  
+  text-shadow: red
+
 }

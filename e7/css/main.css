@@ -1,3 +1,9 @@
+* {
+  margin: 50px;
+  padding:50px;
+  box-sizing: 50; border-box: 50;
+
+}
 body {
   font-family: 'Teko', sans-serif;
   font-size: 30px;
@@ -17,4 +23,8 @@ body {
 h1, h2, h3 {
   text-align: center;
 
+}
+p {
+  margin-left: 30px; margin-right: 30px;
+  text-align: left;
 }

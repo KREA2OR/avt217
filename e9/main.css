@@ -1,0 +1,35 @@
+body {
+  font-size: 50px;
+  background-color: Black;
+  color: orange;
+  font-family: 'Tangerine', cursive;
+  text-align: center;
+}
+header {
+  width: 75vw;
+  margin: 25px auto;
+}
+main {
+  width: 75vw;
+  margin: 25px auto;
+  display:flow-root;
+}
+.col {
+  width: 50%;
+  float: left;
+}
+h1 {
+  font-size: 100px;
+  letter-spacing: 1px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+a:visited {
+  color: red;
+}
+a:hover {
+  color: whitesmoke;
+}
+ul{
+  list-style-type: none;
+}

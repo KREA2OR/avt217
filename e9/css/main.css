@@ -2,6 +2,11 @@
   box-sizing: border-box;
 }
 body {
+  font-size: 50px;
+  background-color: Black;
+  color: orange;
+  font-family: 'Tangerine', cursive;
+  text-align: center;
   margin: 0;
   overflow-x: hidden;
 }

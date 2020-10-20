@@ -8,12 +8,10 @@ body {
 header {
   width: 75vw;
   margin: 25px auto;
-  background-color: gold;
 }
 main {
   width: 75vw;
   margin: 25px auto;
-  background-color: silver;
   display:flow-root;
 }
 .col {

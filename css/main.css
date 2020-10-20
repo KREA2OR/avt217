@@ -18,6 +18,7 @@ main {
 .col {
   width: 50%;
   background-color: gray;
+  float: left;
 }
 h1 {
   font-size: 100px;

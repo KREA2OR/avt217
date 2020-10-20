@@ -5,6 +5,11 @@ body {
   font-family: 'Tangerine', cursive;
   text-align: center;
 }
+header {
+  width: 75vw;
+  margin: 25px auto;
+  background-color: gold;
+}
 h1 {
   font-size: 100px;
   letter-spacing: 1px;

@@ -10,6 +10,11 @@ header {
   margin: 25px auto;
   background-color: gold;
 }
+main {
+  width: 75vw;
+  margin: 25px auto;
+  background-color: silver;
+}
 h1 {
   font-size: 100px;
   letter-spacing: 1px;

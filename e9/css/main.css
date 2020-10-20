@@ -1,0 +1,175 @@
+*{
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
+main {
+
+  width: 125vw;
+  margin: -100px -12.5vw;
+}
+#p1 .shape1 {
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+  background-color: gold;
+  margin: -200px -250px;
+  float: left;
+}
+#p1 .shape2 {
+  width: 300px;
+  height: 300px;
+  border: 15px solid black;
+  background-color: silver;
+  margin: -15px -100px 50px 40px;
+  border-radius: 50%;
+  float: left;
+}
+#p1 .shape3 {
+  width: 150px;
+  height: 400px;
+  margin: -10px -200px;
+  background-color: red;
+  border-radius: 10px;
+  float: left;
+}
+#p1 .shape4 {
+  width: 100px;
+  height: 50px;
+  background-color: green;
+  margin: 25px -150px;
+  border-radius: 10px;
+  float: left;
+}
+#p2 .shape1 {
+  width: 155px;
+  height: 200px;
+  margin: 50px;
+  background-color: purple;
+  margin: -500px;
+  float: left;
+}
+#p2 .shape2 {
+  width: 300px;
+  height: 300px;
+  border: 15px solid blue;
+  background-color: orange;
+  margin: 50px 40px;
+  float: left;
+}
+#p2 .shape3 {
+  width: 230px;
+  height: 400px;
+  margin: -10px -200px;
+  background-color: tan;
+  border-radius: 50px;
+  float: left;
+}
+#p2 .shape4 {
+  width: 100px;
+  height: 50px;
+  background-color: brown;
+  margin: 25px -150px;
+  border-radius: 10px;
+  border-radius: 50%;
+  float: left;
+}
+#p3 .shape1 {
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+  background-color: gold;
+  margin: -200px 250px;
+  float: left;
+}
+#p3 .shape2 {
+  width: 25px;
+  height: 25px;
+  background-color: yellow;
+  margin: 100px;
+  float: left;
+}
+#p3 .shape3 {
+  width: 150px;
+  height: 400px;
+  margin: -85px -300px;
+  background-color: skyblue;
+  border-radius: 10px;
+  float: left;
+}
+#p3 .shape4 {
+  width: 550px;
+  height: 50px;
+  background-color: gray;
+  margin: 25px -150px;
+  border-radius: 10px;
+  float: left;
+}
+#p4 .shape1 {
+  width: 200px;
+  height:200px;
+  margin:-20px;
+  background-color: lime;
+  border-radius: 15px;
+  float: right;
+}
+#p4 .shape2 {
+  width: 200px;
+  height: 200px;
+  border: 15px solid salmon;
+  background-color: pink;
+  margin: -20px;
+  float: right;
+}
+#p4 .shape3 {
+  width:200px;
+  height:200px;
+  margin: -100px;
+  background-color: magenta;
+  float: right;
+}
+#p4 .shape4 {
+  width:250px;
+  height:250px;
+  border: 30px solid gray;
+  background-color:black;
+  margin: -200px;
+  border-radius:65px;
+  float: right;
+}
+#p5 .shape1 {
+  width: 200px;
+  height: 200px;
+  margin: -200px;
+  background-color: black;
+  float: left;
+}
+#p5 .shape2 {
+  width: 100px;
+  height: 100px;
+  border: 20px solid darkorange;
+  background-color: darkblue;
+  opacity: 90%;
+  margin: -200px;
+  border-radius: 50%;
+  float: left;
+}
+#p5 .shape3 {
+  width: 320px;
+  height: 400px;
+  margin: 5px;
+  background-color: pink;
+  border-radius: 10px;
+  float: left;
+}
+#p5 .shape4 {
+  width: 300px;
+  height: 200px;
+  background-color: darkgreen;
+  margin: -500px;
+  border-radius: 10px;
+  float: left;
+  opacity: 90%;
+}

@@ -53,3 +53,7 @@ body {
   float: left;
   margin-top: 25px;
 }
+.column-margin {
+  margin-left: 50px;
+  margin-right: 50px;
+}

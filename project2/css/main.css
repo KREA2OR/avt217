@@ -1,9 +1,30 @@
 a:hover {
   color:skyblue
 }
-h1{
+h1 {
+  text-align: center;
   font-family: timberline, sans-serif;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 500px;
   color: #B9A3A3;
+}
+ul, h2, h3 {
+  font-family: forma-djr-micro, sans-serif;
+  font-style: normal;
+  font-weight: 200;
+  color: #B9A3A3;
+  list-style-type: none;
+  text-align: center;
+}
+body {
+  background-image: linear-gradient(#382828,black,black,black,black,black,black, #382828)
+}
+main {
+  margin: 25px auto;
+}
+
+.img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
 }
